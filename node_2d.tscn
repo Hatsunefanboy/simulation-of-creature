@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://brfi0fvumedf8"]
+
+[ext_resource type="Script" uid="uid://crqmnu7d81alj" path="res://node_2d.gd" id="1_0e48y"]
+[ext_resource type="Texture2D" uid="uid://cfg833ompvlc" path="res://Sans titre.png" id="1_wtcfe"]
+
+[node name="Node2D" type="Node2D" unique_id=1848139148]
+script = ExtResource("1_0e48y")
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=925605838]
+visible = false
+position = Vector2(191, 195)
+texture = ExtResource("1_wtcfe")
+
+[node name="Label" type="Label" parent="." unique_id=1812193542]
+offset_right = 218.0
+offset_bottom = 118.0
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=1859808788]
