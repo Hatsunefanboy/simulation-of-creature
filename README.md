@@ -2,7 +2,7 @@
 Simulation de créatures organiques 
 
 ## installation 
-Vous pouvez accéder au fihcier exe dans l'onglet release 
+Vous pouvez accéder au fichier exe dans l'onglet release 
 
 ## controle 
 bouger la caméra 
@@ -16,7 +16,7 @@ clique droit
 
 #comment faire 
 A chaque fois que vous lancez le programme une nouvelle créature est générez aléatoirement. 
-Vous pouvez la nourir seulement sur ses bouches vous verrez alors la nourriture en vert passez tout le long de son organismes.
+Vous pouvez la nourir seulement sur ses bouches. Vous verrez alors la nourriture en vert passez tout le long de son organismes.
 Ensuite si la créature posséde un estomac et que la nourriture arrive sur lui elle sera transformé en calorie (rouge) qui permettront 
 par la suite a la créature de bouger.
 
